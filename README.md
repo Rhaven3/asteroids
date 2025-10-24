@@ -2,8 +2,7 @@
 
 Un jeu d'astéroïdes développé en Python avec **UV**, inspiré des classiques jeux d'arcade. Ce projet a été réalisé dans le cadre de la formation **Boot.dev** pour explorer les concepts de programmation orientée objet.
 
-
-https://github.com/user-attachments/assets/227690cd-e99c-4367-b837-d55403b277e1
+![asteroids-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/f59fc2a9-c096-4425-abba-e6f69856b5ed)
 
 
 ---
@@ -41,4 +40,5 @@ https://github.com/user-attachments/assets/227690cd-e99c-4367-b837-d55403b277e1
    ```bash
    uv run main.py
    ```
+
 
