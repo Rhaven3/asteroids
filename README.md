@@ -1,6 +1,10 @@
 # Asteroid Game
-![image](https://cdn.discordapp.com/attachments/1133783225341321237/1399816520296562728/image.png?ex=68c65c79&is=68c50af9&hm=dae446913e1f1eeab1932c003617136be3149a36129b530d13d7e18fda1b5d25&)
+
 Un jeu d'astéroïdes développé en Python avec **UV**, inspiré des classiques jeux d'arcade. Ce projet a été réalisé dans le cadre de la formation **Boot.dev** pour explorer les concepts de programmation orientée objet.
+
+
+https://github.com/user-attachments/assets/227690cd-e99c-4367-b837-d55403b277e1
+
 
 ---
 
@@ -37,3 +41,4 @@ Un jeu d'astéroïdes développé en Python avec **UV**, inspiré des classiques
    ```bash
    uv run main.py
    ```
+
